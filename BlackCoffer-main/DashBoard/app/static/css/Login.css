@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(220, 175, 175);
+}
+
+.container{
+    border-radius: 4px;
+}
+
+.login{
+    text-align: center;
+    color: #f5efef;
+}
+.LoginBody{
+    background-color: rgb(75, 161, 105);
+    width: 450px;
+    margin-top: 60px;
+    margin-left: 40%;
+    border-radius: 20px;
+}
+.wrong{
+    background-color: #ede7e7;
+    width: 350px;
+    color: rgb(255, 98, 0);
+    border-radius:5px ;
+    text-align:center ;
+}
+
+.form-label{
+    font-size: 17px;
+    color:rgb(215, 204, 225);
+}
+
+.btn{
+    width: 200px;
+    margin-left: 70px;
+}
