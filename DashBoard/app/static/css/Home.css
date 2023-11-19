@@ -1,0 +1,53 @@
+
+.searchbox{
+    width: 900px;
+    background: hsl(0, 0%, 99%);
+   
+    border-style: groove;
+    
+    margin-left: 135px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 30px;
+    
+}
+.search{
+    margin-top: 20px;
+}
+.text{
+    width: 200px;
+    margin-top: 22px;
+    
+}
+.btn{
+    color: rgb(250, 250, 250);
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 20px;
+    
+}
+
+.Apply{
+    color: blue;
+    
+}
+.job{
+    width: 900px;
+    background: hsl(0, 18%, 82%);
+   
+    border-style: groove;
+    margin: 10px;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+.joblist{
+    color:blue;
+    margin-left:10px;
+    border-radius: 5px;
+    text-align: center;
+}
+.row{
+    margin-left: 10px;
+}
+
